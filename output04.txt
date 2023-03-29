@@ -1,0 +1,11 @@
+Enter a name: 
+Please choose a weapon
+1. Tulong
+2. IceSword
+Smith use IceSword
+Hero: Smith   HP: 550
+Monster: PIPIXIA   HP: 350
+The hero will fight the monster
+1. attack
+2. quit
+You lose the game!

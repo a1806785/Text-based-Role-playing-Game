@@ -1,0 +1,21 @@
+Plan
+
+Memory allocation from stack and heap
+    Arrays : We will use a dynamic array to put monsters and heroes in the heap. and every new
+player attending this game will be added to the array.
+    Strings : Things like players' name
+    Object : Heroes, Monsters, and Boss;
+
+User Input and Output
+    Input : Command line, heroes' name, choose attack or choose quit.
+    Output : reminder heroes' hp is not health, player win the game and play fail.
+
+Object-oriented programming and Design
+    Inheritance : when heroes defeat the monsters will inheritence weapones.
+
+
+allcate FeiXiang Zheng to create Hero objec and build a makefile;
+
+allcate ChengHao Zhu to create Monsters Object;
+
+allcate Chao Jiang to create Boss object and create a weapon object;

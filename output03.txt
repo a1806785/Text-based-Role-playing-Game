@@ -1,0 +1,35 @@
+Enter a name: 
+Please choose a weapon
+1. Tulong
+2. IceSword
+Jack use Tulong
+Hero: Jack   HP: 550
+Monster: PIPIXIA   HP: 350
+The hero will fight the monster
+1. attack
+2. quit
+*****The 1 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Jack   HP: 555
+Monster: PIPIXIA   HP: 285
+1. attack
+2. quit
+*****The 2 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Jack   HP: 560
+Monster: PIPIXIA   HP: 220
+1. attack
+2. quit
+*****The 3 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Jack   HP: 565
+Monster: PIPIXIA   HP: 155
+1. attack
+2. quit
+*****The 4 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Jack   HP: 570
+Monster: PIPIXIA   HP: 90
+1. attack
+2. quit
+You lose the game!

@@ -1,0 +1,99 @@
+Enter a name: 
+Please choose a weapon
+1. Tulong
+2. IceSword
+Tom use Tulong
+Hero: Tom   HP: 550
+Boss: Godzilla   HP: 500
+The hero will fight the boss
+1. attack
+2. quit
+*****The 1 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Tom   HP: 540
+Boss: Godzilla   HP: 465
+1. attack
+2. quit
+*****The 2 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Tom   HP: 530
+Boss: Godzilla   HP: 430
+1. attack
+2. quit
+*****The 3 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Tom   HP: 520
+Boss: Godzilla   HP: 395
+1. attack
+2. quit
+*****The 4 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Tom   HP: 510
+Boss: Godzilla   HP: 360
+1. attack
+2. quit
+*****The 5 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Tom   HP: 500
+Boss: Godzilla   HP: 325
+1. attack
+2. quit
+*****The 6 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+BOSS use the unique skill!
+Hero: Tom   HP: 255
+Boss: Godzilla   HP: 290
+1. attack
+2. quit
+*****The 7 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Tom   HP: 245
+Boss: Godzilla   HP: 255
+1. attack
+2. quit
+*****The 8 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Tom   HP: 235
+Boss: Godzilla   HP: 220
+1. attack
+2. quit
+*****The 9 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Tom   HP: 225
+Boss: Godzilla   HP: 185
+1. attack
+2. quit
+*****The 10 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Tom   HP: 215
+Boss: Godzilla   HP: 150
+1. attack
+2. quit
+*****The 11 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Tom   HP: 205
+Boss: Godzilla   HP: 115
+1. attack
+2. quit
+*****The 12 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+BOSS use the unique skill!
+Hero: Tom   HP: 107
+Boss: Godzilla   HP: 80
+1. attack
+2. quit
+*****The 13 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Tom   HP: 97
+Boss: Godzilla   HP: 45
+1. attack
+2. quit
+*****The 14 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Hero: Tom   HP: 87
+Boss: Godzilla   HP: 10
+1. attack
+2. quit
+*****The 15 round*****
+The hero's weapon triggers the blood sucking effect, and the hero increases 10 HP
+Boss is dead, you win!

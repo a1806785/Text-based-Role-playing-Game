@@ -1,0 +1,11 @@
+Enter a name: 
+Please choose a weapon
+1. Tulong
+2. IceSword
+Jack use IceSword
+Hero: Jack   HP: 550
+Boss: Godzilla   HP: 500
+The hero will fight the boss
+1. attack
+2. quit
+You lose the game!
